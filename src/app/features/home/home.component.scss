@@ -1,8 +1,16 @@
 .outer-container {
   margin: 0 auto;
   width: 50%;
+  color: white;
+  padding-bottom: 50px;
 
   h3 {
     text-decoration: underline;
+  }
+
+  ul,ol {
+    li {
+      line-height: 1.9;
+    }
   }
 }
